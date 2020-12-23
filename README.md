@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 <!-- [![Build status](https://ci.appveyor.com/api/projects/status/mx4cc5x2cbfqwjul?svg=true)](https://ci.appveyor.com/project/Vadim2107/ra-components-store-class) -->
-=======
-
->>>>>>> d3d7279b6fee9c1f871ec21c336e2e43cc673f62
 ### [GitHub Pages](https://vadim2107.github.io/RA_Components_store-class/)
 # Домашнее задание к курсу «React: библиотека № 1 в современной фронтенд-разработке»
 ## RA_Components_store-class
